@@ -84,6 +84,7 @@ Follow along with the build process on my blog:
 
 - Portfolio: [soper.dev](https://soper.dev)
 - LinkedIn: [joseph-soper-dev](https://www.linkedin.com/in/joseph-soper-dev/)
+- GitHub: [@thejollydev](https://github.com/thejollydev)
 - Email: joseph@soper.dev
 
 ## 📄 License
